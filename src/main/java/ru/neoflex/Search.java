@@ -1,3 +1,5 @@
+package ru.neoflex;
+
 public class Search{ 
 public static int search (int[] Array, int searchNumber){
 	int searchIndex=-1;
